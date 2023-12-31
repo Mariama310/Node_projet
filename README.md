@@ -76,7 +76,7 @@ Our Web Application is similar to Anki, here is a description of the pages :
 For more on Angular CLI, use `ng help` or visit the [Angular CLI Overview and Command Reference](https://angular.io/cli).
 
 ## License
-This project is a work of CORNELIE Joalie, DELAFAUSSE Margaux, IGUE Alexia, BOUSSO KANE Sokhna Mariama.
+This project is a work of CORNELIE Joalie, DELAFOSSE Margaux, IGUE Alexia, BOUSSO KANE Sokhna Mariama.
 
 ## Acknowledgments
 Link of the original website : [Anki](https://ankiweb.net/account/signup)
