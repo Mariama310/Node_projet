@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, OnInit} from '@angular/core';
+
 import { Router } from '@angular/router'; // Importez Router depuis '@angular/router'
 
 @Component({
@@ -8,9 +9,8 @@ import { Router } from '@angular/router'; // Importez Router depuis '@angular/ro
 })
 export class LogInComponent {
   constructor(private router: Router) {}
-
-  onresetpasswordclick() {
-    // Rediriger vers la page "reset-password"
-    this.router.navigate(['/reset-password']);
+  onresetpasswordclick(){
+    this.router.navigateByUrl("/reset-password")
   }
+
 }
