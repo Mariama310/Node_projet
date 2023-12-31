@@ -81,9 +81,7 @@ This project is a work of CORNELIE Joalie, DELAFAUSSE Margaux, IGUE Alexia, BOUS
 ## Acknowledgments
 Link of the original website : [Anki](https://ankiweb.net/account/signup)
 
----
 
-**Note:** Customize this README to fit your project's specifics.
 
 
 
